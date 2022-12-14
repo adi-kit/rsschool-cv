@@ -1,11 +1,12 @@
 ## Adel Gataullin
 
 
+
+
 tg: [@what_you_see](https://t.me/what_you_see)
 
 
 ***
-
 
 ``` 
     for (let i = 7; i < paperValuesPayLr; i++){
