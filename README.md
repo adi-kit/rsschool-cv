@@ -1,1 +1,1 @@
-# rsschool-cv
+https://adi-kit.github.io/rsschool-cv/cv
